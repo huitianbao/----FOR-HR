@@ -1,7 +1,7 @@
 # ----FOR-HR
 
-1.  这是一个基于 J2EE 的完整的社交网站
-    https://github.com/huitianbao/WeLife_Complete_Edition
+1.  https://github.com/huitianbao/WeLife_Complete_Edition
+    这是一个基于 J2EE 的完整的社交网站
 
 
 2.  https://github.com/huitianbao/j2ee_video_website.git
