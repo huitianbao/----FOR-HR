@@ -4,6 +4,8 @@
 
 1.  https://github.com/huitianbao/WeLife_Complete_Edition
     这是一个基于 J2EE 的完整的社交网站
+    用户可以先注册，然后登陆，然后添加好友，浏览好友发布的动态并对好友的动态发表评论；
+    用户可以发布动态，动态包含图片和文字；用户可以写日记记录自己的生活。
 
 
 2.  https://github.com/huitianbao/j2ee_video_website.git
