@@ -19,7 +19,7 @@
     C/S 架构，用户登录之后客户可在服务器执行以下操作：
     创建/删除目录（mkdir/rmdir）、显示当前路径（pwd）、切换目录（cd）、查看当前目录下的所有文件（ls）、上传文件（put）、下载文件（get）。
     
-4.https://github.com/huitianbao/java_thread_operations
+4.  https://github.com/huitianbao/java_thread_operations
     本系统模拟多线程的运行，时刻查看线程的运行状态（等待，就绪，运行） 可以添加线程，删除线程，暂停（进入等待状态），开始（进入就绪状态）
 
 
